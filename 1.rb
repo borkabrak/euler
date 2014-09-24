@@ -11,4 +11,4 @@ s = 0
     s += n
   end
 end
-puts "Straightforward solution: #{s}"
+puts s
